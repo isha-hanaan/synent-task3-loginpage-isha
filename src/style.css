@@ -154,7 +154,6 @@ button:hover {
 }
 
 @media (max-width: 768px) {
-
     .main-container {
         flex-direction: column;
     }
@@ -166,5 +165,5 @@ button:hover {
     .login-container {
         padding: 30px;
     }
-
 }
+
